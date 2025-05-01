@@ -1,4 +1,5 @@
-#Progress belajarku di Dicoding
+Progress belajarku di Dicoding
+==
 1 Mei 2025
 --
 Hari ini aku telah mencapai 38% Progress belajar dasar Git dan GitHub.
